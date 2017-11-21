@@ -1,0 +1,5 @@
+https://github.com/benbalter/jekyll-remote-theme
+
+https://github.com/jekyll/jekyll
+
+http://bundler.io/v1.12/git.html
